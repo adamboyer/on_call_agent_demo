@@ -1,0 +1,10 @@
+{
+  "incident_id": "inc-1001",
+  "service_name": "payments-api",
+  "timestamp": "2026-04-17T14:30:00",
+  "error_type": "DB_POOL_EXHAUSTED",
+  "message": "Database pool exhausted while serving requests",
+  "stacktrace": null,
+  "repo": "your-org/payments-api",
+  "branch": "main"
+}

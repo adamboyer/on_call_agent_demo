@@ -1,0 +1,10 @@
+{
+  "incident_id": "inc-1002",
+  "service_name": "orders-api",
+  "timestamp": "2026-04-17T15:00:00",
+  "error_type": "NULL_POINTER_EXCEPTION",
+  "message": "Unhandled application exception",
+  "stacktrace": "java.lang.NullPointerException at src/main/java/com/example/orders/OrderService.java:128",
+  "repo": "your-org/orders-api",
+  "branch": "main"
+}

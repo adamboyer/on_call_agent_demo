@@ -1,0 +1,14 @@
+[
+  {
+    "start_date": "2026-04-01",
+    "end_date": "2026-04-20",
+    "person_name": "Alex",
+    "slack_user_id": "U_ONCALL_1"
+  },
+  {
+    "start_date": "2026-04-21",
+    "end_date": "2026-04-30",
+    "person_name": "Jordan",
+    "slack_user_id": "U_ONCALL_2"
+  }
+]
