@@ -2,13 +2,13 @@
   {
     "start_date": "2026-04-01",
     "end_date": "2026-04-20",
-    "person_name": "Alex",
+    "person_name": "Adam",
     "slack_user_id": "U_ONCALL_1"
   },
   {
     "start_date": "2026-04-21",
     "end_date": "2026-04-30",
-    "person_name": "Jordan",
+    "person_name": "Haben",
     "slack_user_id": "U_ONCALL_2"
   }
 ]
